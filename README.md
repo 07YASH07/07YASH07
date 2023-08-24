@@ -1,3 +1,4 @@
+<img src="file:///C:/Users/Dell/OneDrive/Pictures/Screenshots/Screenshot%202023-08-24%20183923.png">
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
